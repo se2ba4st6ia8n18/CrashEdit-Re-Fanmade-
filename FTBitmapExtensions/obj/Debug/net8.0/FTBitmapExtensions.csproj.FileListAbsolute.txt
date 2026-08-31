@@ -1,0 +1,12 @@
+E:\PS1 Hry\CrashEdit-t-net9-v0.4.0.8\FTBitmapExtensions\bin\Debug\net8.0\FTBitmapExtensions.deps.json
+E:\PS1 Hry\CrashEdit-t-net9-v0.4.0.8\FTBitmapExtensions\bin\Debug\net8.0\FTBitmapExtensions.dll
+E:\PS1 Hry\CrashEdit-t-net9-v0.4.0.8\FTBitmapExtensions\bin\Debug\net8.0\FTBitmapExtensions.pdb
+E:\PS1 Hry\CrashEdit-t-net9-v0.4.0.8\FTBitmapExtensions\obj\Debug\net8.0\FTBitmapExtensions.csproj.AssemblyReference.cache
+E:\PS1 Hry\CrashEdit-t-net9-v0.4.0.8\FTBitmapExtensions\obj\Debug\net8.0\FTBitmapExtensions.GeneratedMSBuildEditorConfig.editorconfig
+E:\PS1 Hry\CrashEdit-t-net9-v0.4.0.8\FTBitmapExtensions\obj\Debug\net8.0\FTBitmapExtensions.AssemblyInfoInputs.cache
+E:\PS1 Hry\CrashEdit-t-net9-v0.4.0.8\FTBitmapExtensions\obj\Debug\net8.0\FTBitmapExtensions.AssemblyInfo.cs
+E:\PS1 Hry\CrashEdit-t-net9-v0.4.0.8\FTBitmapExtensions\obj\Debug\net8.0\FTBitmapExtensions.csproj.CoreCompileInputs.cache
+E:\PS1 Hry\CrashEdit-t-net9-v0.4.0.8\FTBitmapExtensions\obj\Debug\net8.0\FTBitmapExtensions.dll
+E:\PS1 Hry\CrashEdit-t-net9-v0.4.0.8\FTBitmapExtensions\obj\Debug\net8.0\refint\FTBitmapExtensions.dll
+E:\PS1 Hry\CrashEdit-t-net9-v0.4.0.8\FTBitmapExtensions\obj\Debug\net8.0\FTBitmapExtensions.pdb
+E:\PS1 Hry\CrashEdit-t-net9-v0.4.0.8\FTBitmapExtensions\obj\Debug\net8.0\ref\FTBitmapExtensions.dll

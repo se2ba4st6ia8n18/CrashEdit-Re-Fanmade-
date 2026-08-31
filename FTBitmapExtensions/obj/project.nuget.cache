@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "a9inucPGkWw=",
+  "success": true,
+  "projectFilePath": "E:\\PS1 Hry\\CrashEdit-t-net9-v0.4.0.8\\FTBitmapExtensions\\FTBitmapExtensions.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sebastian\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\Sebastian\\.nuget\\packages\\spacewizards.sharpfont\\1.0.2\\spacewizards.sharpfont.1.0.2.nupkg.sha512",
+    "C:\\Users\\Sebastian\\.nuget\\packages\\system.drawing.common\\8.0.2\\system.drawing.common.8.0.2.nupkg.sha512",
+    "C:\\Users\\Sebastian\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.317\\microsoft.net.sdk.compilers.toolset.9.0.317.nupkg.sha512"
+  ],
+  "logs": []
+}
