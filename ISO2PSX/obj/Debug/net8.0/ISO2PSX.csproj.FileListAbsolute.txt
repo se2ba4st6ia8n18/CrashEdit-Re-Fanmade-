@@ -1,0 +1,11 @@
+E:\PS1 Hry\CrashEdit-t-net9-v0.4.0.8\ISO2PSX\bin\Debug\net8.0\ISO2PSX.deps.json
+E:\PS1 Hry\CrashEdit-t-net9-v0.4.0.8\ISO2PSX\bin\Debug\net8.0\ISO2PSX.dll
+E:\PS1 Hry\CrashEdit-t-net9-v0.4.0.8\ISO2PSX\bin\Debug\net8.0\ISO2PSX.pdb
+E:\PS1 Hry\CrashEdit-t-net9-v0.4.0.8\ISO2PSX\obj\Debug\net8.0\ISO2PSX.GeneratedMSBuildEditorConfig.editorconfig
+E:\PS1 Hry\CrashEdit-t-net9-v0.4.0.8\ISO2PSX\obj\Debug\net8.0\ISO2PSX.AssemblyInfoInputs.cache
+E:\PS1 Hry\CrashEdit-t-net9-v0.4.0.8\ISO2PSX\obj\Debug\net8.0\ISO2PSX.AssemblyInfo.cs
+E:\PS1 Hry\CrashEdit-t-net9-v0.4.0.8\ISO2PSX\obj\Debug\net8.0\ISO2PSX.csproj.CoreCompileInputs.cache
+E:\PS1 Hry\CrashEdit-t-net9-v0.4.0.8\ISO2PSX\obj\Debug\net8.0\ISO2PSX.dll
+E:\PS1 Hry\CrashEdit-t-net9-v0.4.0.8\ISO2PSX\obj\Debug\net8.0\refint\ISO2PSX.dll
+E:\PS1 Hry\CrashEdit-t-net9-v0.4.0.8\ISO2PSX\obj\Debug\net8.0\ISO2PSX.pdb
+E:\PS1 Hry\CrashEdit-t-net9-v0.4.0.8\ISO2PSX\obj\Debug\net8.0\ref\ISO2PSX.dll
