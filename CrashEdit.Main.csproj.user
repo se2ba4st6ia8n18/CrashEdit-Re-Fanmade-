@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="Core\Gui\ChoiceDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Core\Gui\HexView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Core\Gui\MainControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Core\Gui\MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Core\Gui\NodeListForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Core\Gui\ResourceBox.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Core\Gui\ResourcePanel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Core\Gui\ResourceTreeView.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Core\Gui\ToolStripCommandButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Core\Gui\ToolStripCommandMenuItem.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Core\Gui\VerbContextMenuStrip.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Core\Legacy\LegacyEditorControlWrapper.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
