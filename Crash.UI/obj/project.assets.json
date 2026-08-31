@@ -1,0 +1,174 @@
+{
+  "version": 3,
+  "targets": {
+    "net9.0-windows7.0": {
+      "AltUI/1.0.4": {
+        "type": "package",
+        "compile": {
+          "lib/net8.0-windows7.0/AltUI.dll": {}
+        },
+        "runtime": {
+          "lib/net8.0-windows7.0/AltUI.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WindowsForms"
+        ]
+      },
+      "MetroSetUI/1.0.11": {
+        "type": "package",
+        "compile": {
+          "lib/netcoreapp3.1/MetroSet UI.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/MetroSet UI.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WindowsForms"
+        ]
+      },
+      "CrashEdit.Main/2.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "AltUI": "1.0.4",
+          "MetroSetUI": "1.0.11"
+        },
+        "compile": {
+          "bin/placeholder/CrashEdit.Main.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CrashEdit.Main.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App"
+        ]
+      }
+    }
+  },
+  "libraries": {
+    "AltUI/1.0.4": {
+      "sha512": "nQpQVq1wkG/t5dL7qwnkU5lKygIx560xGX+Vih7uw8jYz9LeySUScqSOAdbU0SK+zHORv8Gbb67coqVdC5Z4qQ==",
+      "type": "package",
+      "path": "altui/1.0.4",
+      "files": [
+        ".nupkg.metadata",
+        "altui.1.0.4.nupkg.sha512",
+        "altui.nuspec",
+        "lib/net8.0-windows7.0/AltUI.dll"
+      ]
+    },
+    "MetroSetUI/1.0.11": {
+      "sha512": "o6VIfzsw5t9ljIMwaPAPcb+iHKcZPiH/d3/r+YNTDFFJvL/xiXSZQasqhov4YZavh8pYpXJbgAyM0JuRXTqe5A==",
+      "type": "package",
+      "path": "metrosetui/1.0.11",
+      "files": [
+        ".nupkg.metadata",
+        "LICENSE",
+        "lib/net45/MetroSet UI.dll",
+        "lib/netcoreapp3.1/MetroSet UI.dll",
+        "metrosetui.1.0.11.nupkg.sha512",
+        "metrosetui.nuspec"
+      ]
+    },
+    "CrashEdit.Main/2.0.0": {
+      "type": "project",
+      "path": "../CrashEdit.Main.csproj",
+      "msbuildProject": "../CrashEdit.Main.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net9.0-windows7.0": [
+      "AltUI >= 1.0.4",
+      "CrashEdit.Main >= 2.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Sebastian\\.nuget\\packages\\": {},
+    "A:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "E:\\PS1 Hry\\CrashEdit-t-net9-v0.4.0.8\\Crash.UI\\Crash.UI.csproj",
+      "projectName": "Crash.UI",
+      "projectPath": "E:\\PS1 Hry\\CrashEdit-t-net9-v0.4.0.8\\Crash.UI\\Crash.UI.csproj",
+      "packagesPath": "C:\\Users\\Sebastian\\.nuget\\packages\\",
+      "outputPath": "E:\\PS1 Hry\\CrashEdit-t-net9-v0.4.0.8\\Crash.UI\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "A:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Sebastian\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net9.0-windows7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "E:\\PS1 Hry\\CrashEdit-t-net9-v0.4.0.8\\packages\\NuGet": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net9.0-windows7.0": {
+          "targetAlias": "net9.0-windows7.0",
+          "projectReferences": {
+            "E:\\PS1 Hry\\CrashEdit-t-net9-v0.4.0.8\\CrashEdit.Main.csproj": {
+              "projectPath": "E:\\PS1 Hry\\CrashEdit-t-net9-v0.4.0.8\\CrashEdit.Main.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "all"
+      },
+      "SdkAnalysisLevel": "9.0.300"
+    },
+    "frameworks": {
+      "net9.0-windows7.0": {
+        "targetAlias": "net9.0-windows7.0",
+        "dependencies": {
+          "AltUI": {
+            "target": "Package",
+            "version": "[1.0.4, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.Net.Sdk.Compilers.Toolset",
+            "version": "[9.0.317, 9.0.317]"
+          }
+        ],
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.317/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

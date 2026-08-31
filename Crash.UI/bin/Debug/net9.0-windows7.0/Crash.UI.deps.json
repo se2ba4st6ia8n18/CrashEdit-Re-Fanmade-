@@ -1,0 +1,79 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Crash.UI/1.0.0": {
+        "dependencies": {
+          "AltUI": "1.0.4",
+          "CrashEdit.Main": "2.0.0"
+        },
+        "runtime": {
+          "Crash.UI.dll": {}
+        },
+        "resources": {
+          "ja/Crash.UI.resources.dll": {
+            "locale": "ja"
+          }
+        }
+      },
+      "AltUI/1.0.4": {
+        "runtime": {
+          "lib/net8.0-windows7.0/AltUI.dll": {
+            "assemblyVersion": "2.0.1.0",
+            "fileVersion": "2.0.1.0"
+          }
+        }
+      },
+      "MetroSetUI/1.0.11": {
+        "runtime": {
+          "lib/netcoreapp3.1/MetroSet UI.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.0.0.0"
+          }
+        }
+      },
+      "CrashEdit.Main/2.0.0": {
+        "dependencies": {
+          "AltUI": "1.0.4",
+          "MetroSetUI": "1.0.11"
+        },
+        "runtime": {
+          "CrashEdit.Main.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Crash.UI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AltUI/1.0.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-nQpQVq1wkG/t5dL7qwnkU5lKygIx560xGX+Vih7uw8jYz9LeySUScqSOAdbU0SK+zHORv8Gbb67coqVdC5Z4qQ==",
+      "path": "altui/1.0.4",
+      "hashPath": "altui.1.0.4.nupkg.sha512"
+    },
+    "MetroSetUI/1.0.11": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-o6VIfzsw5t9ljIMwaPAPcb+iHKcZPiH/d3/r+YNTDFFJvL/xiXSZQasqhov4YZavh8pYpXJbgAyM0JuRXTqe5A==",
+      "path": "metrosetui/1.0.11",
+      "hashPath": "metrosetui.1.0.11.nupkg.sha512"
+    },
+    "CrashEdit.Main/2.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

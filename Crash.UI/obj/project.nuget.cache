@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "+KxaX7N07c4=",
+  "success": true,
+  "projectFilePath": "E:\\PS1 Hry\\CrashEdit-t-net9-v0.4.0.8\\Crash.UI\\Crash.UI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sebastian\\.nuget\\packages\\altui\\1.0.4\\altui.1.0.4.nupkg.sha512",
+    "C:\\Users\\Sebastian\\.nuget\\packages\\metrosetui\\1.0.11\\metrosetui.1.0.11.nupkg.sha512",
+    "C:\\Users\\Sebastian\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.317\\microsoft.net.sdk.compilers.toolset.9.0.317.nupkg.sha512"
+  ],
+  "logs": []
+}
